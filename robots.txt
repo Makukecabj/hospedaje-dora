@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hospedaje-dora.vercel.app/sitemap.xml
